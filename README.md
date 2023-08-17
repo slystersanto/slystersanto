@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm slyster santo</h1>
+<h1 align="center">Hi Everyone👋, I'm slyster santo(santhosh)</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slystersanto&label=Profile%20views&color=0e75b6&style=flat" alt="slystersanto" /> </p>
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN-FULL STACK**
 
-- 👨‍💻 All of my projects are available at [https://lively-kelpie-27acf7.netlify.app](https://lively-kelpie-27acf7.netlify.app)
+- 👨‍💻 All of my projects are available at [https://c-portfolio.netlify.app](https://c-portfolio.netlify.app)
 
-- 💬 Ask me about **react,js,node,mongodb,ds**
+- 💬 Ask me about **Front-end-technologies**
 
 - 📫 How to reach me **santhosh.mech.19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yv7CV6BydJoaEdVpUlm-Imm51_SknE1x/view?usp=drive_link](https://drive.google.com/file/d/1Yv7CV6BydJoaEdVpUlm-Imm51_SknE1x/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1m7ipYLNfgHkebxPO0tUBNgswd4gdxDSN/view?usp=drive_link](https://drive.google.com/file/d/1m7ipYLNfgHkebxPO0tUBNgswd4gdxDSN/view?usp=drive_link)
 
 - ⚡ Fun fact **When I'm not coding, you can find me on Insta, or spending time with my Boys.**
 
